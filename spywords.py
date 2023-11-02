@@ -54,7 +54,7 @@ using a {vehicle} to flee from the pursuing {enemy_org} agents.
 
 Back at headquarters, Agent {agent_first_name} {agent_last_name} delivered the critical {noun2} to their superiors,
 who praised their {adj6} efforts in thwarting the {enemy_org}'s scheme."""
-
+        print("\n")
         print(madlibspy)
 
     elif choice == "no":
